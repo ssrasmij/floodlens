@@ -1,0 +1,17 @@
+{
+  "project": "FloodLens",
+  "study_area": "Philadelphia Schuylkill River corridor",
+  "data_year": 2023,
+  "total_segments": 3097,
+  "exposed_segments": 167,
+  "high_hazard_segments": 127,
+  "moderate_hazard_segments": 129,
+  "high_only_segments": 38,
+  "moderate_only_segments": 40,
+  "both_segments": 89,
+  "high_overlap_km": 22.09,
+  "moderate_overlap_km": 5.73,
+  "total_overlap_km": 27.81,
+  "methodology": "Street centerline and flood-hazard polygon intersection",
+  "disclaimer": "Mapped exposure does not predict actual flooding, road closures, or infrastructure damage."
+}
